@@ -5,6 +5,7 @@ langsmith
 langchain-community
 langchain-core
 langchain-openai
+langgraph-checkpoint-sqlite
 notebook
 tavily-python
 wikipedia
